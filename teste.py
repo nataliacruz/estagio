@@ -31,3 +31,6 @@ medio = bases/reads
 file = open(filenameOut, 'a+')
 file.write("%f\t %f\t %d\t %d\t %f\t %d\t %d\n" % (reads, bases, q30, q20, medio, maior, menor))
 file.close()
+
+#####
+ 
